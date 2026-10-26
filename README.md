@@ -1,5 +1,5 @@
 <img src="https://i.ibb.co.com/rR74ntGh/baner.jpg" alt="Web designer wordpress developer portfolio banner" border="0">
-<h3 align="center">Aspiring Web Developer 🚀 | HTML • CSS • WordPress • Front-End Development | Learning, Building, Evolving.</h3>
+<h3 align="center">Professional Web Designer & Developer | WordPress Expert | Helping Businesses & Creators Build Stunning Websites 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjakir20&label=Profile%20views&color=0e75b6&style=flat" alt="devjakir20" /> </p>
 
