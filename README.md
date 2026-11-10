@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Professional Web Designer & Developer | WordPress Expert | Helping Businesses & Creators Build Stunning Websites 🚀**
 
-- 👨‍💻 All of my projects are available at [https://devjakir20.github.io/personal-portfolio/](https://devjakir20.github.io/personal-portfolio/)
+- Visit my Personal Portfolio [https://devjakir20.github.io/personal-portfolio/](https://devjakir20.github.io/personal-portfolio/)
 
 - 💬 Ask me about **Web Design & Development & WordPress Expert | Helping Businesses & Creators Build Stunning Websites 🚀**
 
